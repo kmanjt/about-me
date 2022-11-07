@@ -1,5 +1,5 @@
 # About Me
-* Kevin - fullstack developer / college student.
+* Kevin - DCU Computer Science college student. Very interested in fullstack development.
 * ALWAYS open to work and work with others.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmanjt&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
