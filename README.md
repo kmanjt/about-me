@@ -1,9 +1,8 @@
 # About Me
-* Kevin - DCU Computer Science college student. Very interested in full stack development.
-* Hi there! I'm a computer science student and open source enthusiast. I love building things and solving problems, and I'm always looking for new challenges to tackle.
 
-I have experience in a variety of programming languages, including Python, JavaScript and Java and I'm always eager to learn more. I'm also a strong believer in the power of open source software, and I contribute to a number of projects in my free time.
-## www.kevinjtomescu.com
+Hi there! I'm Kevin, a computer science student from DCU with a passion for full stack development. I love building things and solving problems, and I'm always looking for new challenges to tackle.
+
+You can find more information about me and my work at [my personal website](https://www.kevinjtomescu.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-james-tomescu/)! 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmanjt&count_private=true&show_icons=true&theme=dracula)" />
 </a>
